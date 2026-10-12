@@ -1,0 +1,6 @@
+{
+  "name": "CakeLuv - Premium Artisanal Bakery & Cake Studio",
+  "description": "Handcrafted celebration cakes, bespoke pastries, and custom occasion cakes made with love and the finest ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
